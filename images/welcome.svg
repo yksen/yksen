@@ -10,7 +10,7 @@
 
                 .container strong {
                     font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-                    color: limegreen;
+                    color: #fe428e;
                     position: absolute;
                     font-size: 1.2em;
                     width: 100%;
