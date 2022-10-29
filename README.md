@@ -9,7 +9,7 @@
         </th>
         <th>
             <a>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yksen&theme=radical&layout=compact" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yksen&theme=radical&layout=compact&langs_count=6" />
             </a>
         </th>
     </tr>
