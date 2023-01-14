@@ -4,7 +4,7 @@
     <tr>
         <th>
             <a>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yksen&theme=radical&hide=stars,contribs&count_private=true&show_icons=true&include_all_comits=true" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yksen&theme=radical&hide_border=true&include_all_commits=true&hide=stars,contribs&show_icons=true&count_private=true" />
             </a>
         </th>
         <th>
