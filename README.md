@@ -1,24 +1,22 @@
-<p align="center">
-    <img src="images/welcome.svg">    
-</p>
-
 <div align="center">
-    <table>
-        <tr>
-            <th>
-                <a>
-                    <img height="150px" align="center" src="https://github-readme-stats-nine-pearl.vercel.app/api/?username=yksen&theme=radical&hide_border=true&include_all_commits=true&hide=stars,contribs&show_icons=true&count_private=true" />
-                </a>
-            </th>
-            <th>
-                <a>
-                    <img height="150px" align="center" src="https://github-readme-stats-nine-pearl.vercel.app/api/top-langs/?username=yksen&theme=radical&layout=compact&langs_count=6&hide_border=true" />
-                </a>
-            </th>
-        </tr>
-    </table>
+    <img src="images/welcome.svg">    
 </div>
 
-<p align="center">
+---
+
+<div align="center">
+    <a href="https://github.com/yksen/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/yksen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/yksen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/yksen/github-stats#gh-light-mode-only">
+        <img src="https://github.com/yksen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+        <img src="https://github.com/yksen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    </a>
+</div>
+
+---
+
+<div align="center">
     <img src="https://visitcount.itsvg.in/api?id=yksen&icon=1&color=10" /?
-</p>
+</div>
