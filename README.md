@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/welcome.svg">    
+    <img src="images/welcome.svg">
 </div>
 
 ---
@@ -18,8 +18,5 @@
 ---
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=yksen&icon=1&color=10" /?
+    <img src="https://komarev.com/ghpvc/?username=yksen&color=fe428e&base=1400" /?
 </div>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/yksen/yksen/assets/47054067/06f224ac-a121-46fb-94b3-1c563e413193');]{x0000}$}
