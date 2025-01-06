@@ -1,22 +1,11 @@
-<div align="center">
-    <img src="images/welcome.svg">
-</div>
-
----
-
-<div align="center">
-    <a href="https://github.com/yksen/github-stats#gh-dark-mode-only">
-        <img src="https://github.com/yksen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-        <img src="https://github.com/yksen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/yksen/github-stats#gh-light-mode-only">
-        <img src="https://github.com/yksen/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-        <img src="https://github.com/yksen/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-    </a>
-</div>
-
----
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yksen/yksen/output-3d/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yksen/yksen/output-3d/profile-season-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yksen/yksen/output-3d/profile-season-animate.svg" />
+	</picture>
+</p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yksen&color=fe428e&base=1400" /?
+    <img src="https://komarev.com/ghpvc/?username=yksen&color=fe428e&base=1400" />
 </div>
